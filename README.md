@@ -5,7 +5,7 @@ With a background in **R, SQL, Python, Tableau, and JavaScript**, I love explori
 
 🎓 **Education**: UC San Diego Graduate  
 🔬 **Interests**: Biomedical Data Science, Healthcare Analytics, AI-driven Insights  
-📊 **Skills**: Data Visualization, Statistical Modeling, Full-Stack Development  
+📊 **Skills**: Data Visualization, Statistical Modeling, Gene Expression Analysis (R), Machine Learning  
 💡 **Currently Working On**: Analyzing **synthetic EHR datasets (Synthea)** to explore healthcare trends  
 
 ### 📫 Let's Connect!
