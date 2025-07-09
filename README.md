@@ -9,7 +9,7 @@ With a background in **R, SQL, Python, Tableau, and JavaScript**, I love explori
 💡 **Currently Working On**: Analyzing **synthetic EHR datasets (Synthea)** to explore healthcare trends  
 
 ### 📫 Let's Connect!
-- Email: pps42@georgetown.edu  
+- Email: 12parishah@gmail.com
 - GitHub: [parishah0](https://github.com/parishah0)  
 - LinkedIn: [Pari Shah](https://www.linkedin.com/in/pari-shah/)  
 
